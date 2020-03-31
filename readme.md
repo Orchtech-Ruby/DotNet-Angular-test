@@ -3,12 +3,11 @@ This task is about adding two numbers and show the result, user can undo changes
 
 # Task Details:
 1-	Add three numeric inputs:
+- a.	Labeled (A), editable.
 
-a.	Labeled (A), editable.
+- b.	Labeled (B), editable.
 
-b.	Labeled (B), editable.
-
-c.	Labeled (Result), read-only.
+- c.	Labeled (Result), read-only.
 
 2-	Result input will contain the sum of A and B.
 
