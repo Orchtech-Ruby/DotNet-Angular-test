@@ -1,4 +1,4 @@
-# Task Description:
+# Orchtech Angular Task Description:
 This task is about adding two numbers and show the result, user can undo changes in input A, B and by that result must be updated. Also there is a grid showing the history of A, B and Result input values.
 
 ## Task Details:
