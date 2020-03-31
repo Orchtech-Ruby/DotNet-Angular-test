@@ -6,11 +6,14 @@ This task is about adding two numbers and show the result, user can undo changes
 a.	Labeled (A), editable.
 b.	Labeled (B), editable.
 c.	Labeled (Result), read-only.
+
 2-	Result input will contain the sum of A and B.
+
 3-	Add three buttons:
 a.	Sum: for do the sum operation.
 b.	Undo: to turn back one step.
 c.	Redo: to get the next change if undo is done.
+
 4-	Grid contains the history on all changes ordered ‘Descending’ by time.
 
 # Technology used:
