@@ -21,5 +21,5 @@ This task is about adding two numbers and show the result, user can undo changes
 ## Technology used:
 	Angular 8 only.
 
-## Time:
+## Estimated Time:
 	6 Hours.
